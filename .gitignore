@@ -13,3 +13,12 @@
 /.settings/
 /.project
 /.pydevproject
+Auxiliary
+Modules
+Utilities
+bin
+Tests
+Testing
+Source
+Bootstrap.cmk
+CMakeFiles
